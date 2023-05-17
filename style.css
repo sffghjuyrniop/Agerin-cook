@@ -1,0 +1,13 @@
+body {
+	background-image: url("IMG_20230517_164323_643.png");
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+.box {
+	width: 306px;
+	height: 290px;
+	margin-top: 1460px;
+}
+.wat {
+	margin-left: 19px;
+}
